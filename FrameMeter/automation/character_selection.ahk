@@ -6,7 +6,7 @@ character_list := [
     "lowain", "ferry", "zeta", "vaseraga", "narmaya", "soriz", "zooey", "cagliostro",
     "yuel", "anre", "eustace", "seox", "vira", "anila", "siegfried", "grimnir",
     "nier", "beelzebub", "belial", "avatar_belial", "lucilius", "2b", "vane", "beatrix",
-    "versusia", "vikala", "sandalphon, "galleon", "wilnas", "meg", "ilsa"
+    "versusia", "vikala", "sandalphon", "galleon", "wilnas", "meg", "ilsa"
 ]
 
 current_character := "gran"
